@@ -1,9 +1,9 @@
 # SFUBUY
 This is a second-hand goods shopping website frame.
-## description
+## Description
 This is a basic second-hand book transaction website, it has user login system and welcome pages, we use  relevant image like books to show our purpose. Our website links to a database of manager and user account.
 
-## installation 
+## Installation 
 ##### Environment: 
   - Install Java IDE (Eclipse the best)
   - Install Tomcat 8.5
